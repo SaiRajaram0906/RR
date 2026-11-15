@@ -1,0 +1,268 @@
+[
+  {
+    "file": "imagesbat1.webp",
+    "source": "imagesbat1.jpeg",
+    "discipline_hint": "bat",
+    "source_size": [
+      447,
+      447
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 14206
+  },
+  {
+    "file": "imagesbat2.webp",
+    "source": "imagesbat2.webp",
+    "discipline_hint": "bat",
+    "source_size": [
+      434,
+      568
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 22346
+  },
+  {
+    "file": "imagesbat3.webp",
+    "source": "imagesbat3.jpeg",
+    "discipline_hint": "bat",
+    "source_size": [
+      447,
+      447
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 13602
+  },
+  {
+    "file": "imagesbat4.webp",
+    "source": "imagesbat4.jpeg",
+    "discipline_hint": "bat",
+    "source_size": [
+      447,
+      447
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 15470
+  },
+  {
+    "file": "imagesbat5.webp",
+    "source": "imagesbat5.jpeg",
+    "discipline_hint": "bat",
+    "source_size": [
+      986,
+      1254
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 19840
+  },
+  {
+    "file": "imagesbat6.webp",
+    "source": "imagesbat6.jpeg",
+    "discipline_hint": "bat",
+    "source_size": [
+      225,
+      225
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 15502
+  },
+  {
+    "file": "imagesbat7.webp",
+    "source": "imagesbat7.jpeg",
+    "discipline_hint": "bat",
+    "source_size": [
+      387,
+      516
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 13908
+  },
+  {
+    "file": "imagesbat8.webp",
+    "source": "imagesbat8.jpeg",
+    "discipline_hint": "bat",
+    "source_size": [
+      447,
+      447
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 17824
+  },
+  {
+    "file": "imagesbat9.webp",
+    "source": "imagesbat9.jpeg",
+    "discipline_hint": "bat",
+    "source_size": [
+      447,
+      447
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 15168
+  },
+  {
+    "file": "imagesbat10.webp",
+    "source": "imagesbat10.jpeg",
+    "discipline_hint": "bat",
+    "source_size": [
+      225,
+      225
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 16322
+  },
+  {
+    "file": "imagesbowl1.webp",
+    "source": "imagesbowl1.jpeg",
+    "discipline_hint": "bowl",
+    "source_size": [
+      203,
+      248
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 22072
+  },
+  {
+    "file": "imagesbowl2.webp",
+    "source": "imagesbowl2.jpeg",
+    "discipline_hint": "bowl",
+    "source_size": [
+      390,
+      512
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 18904
+  },
+  {
+    "file": "imagesbowl3.webp",
+    "source": "imagesbowl3.jpeg",
+    "discipline_hint": "bowl",
+    "source_size": [
+      390,
+      512
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 13138
+  },
+  {
+    "file": "imagesbowl4.webp",
+    "source": "imagesbowl4.jpeg",
+    "discipline_hint": "bowl",
+    "source_size": [
+      482,
+      414
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 12354
+  },
+  {
+    "file": "imagesbowl5.webp",
+    "source": "imagesbowl5.jpeg",
+    "discipline_hint": "bowl",
+    "source_size": [
+      365,
+      547
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 12998
+  },
+  {
+    "file": "imagesbowl6.webp",
+    "source": "imagesbowl6.jpeg",
+    "discipline_hint": "bowl",
+    "source_size": [
+      365,
+      547
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 16634
+  },
+  {
+    "file": "imagesbowl7.webp",
+    "source": "imagesbowl7.jpeg",
+    "discipline_hint": "bowl",
+    "source_size": [
+      447,
+      447
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 12766
+  },
+  {
+    "file": "imagesbowl8.webp",
+    "source": "imagesbowl8.jpeg",
+    "discipline_hint": "bowl",
+    "source_size": [
+      256,
+      256
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 14398
+  },
+  {
+    "file": "imagesbowl9.webp",
+    "source": "imagesbowl9.jpeg",
+    "discipline_hint": "bowl",
+    "source_size": [
+      390,
+      512
+    ],
+    "display_size": [
+      320,
+      400
+    ],
+    "bytes": 13264
+  }
+]

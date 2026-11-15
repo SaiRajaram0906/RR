@@ -1,0 +1,14 @@
+import { createRequire } from 'node:module';
+const require = createRequire('/opt/npm-tools/');
+const { chromium } = require('playwright');
+const browser = await chromium.launch({ args: ['--no-sandbox', '--use-angle=swiftshader', '--enable-unsafe-swiftshader', '--ignore-gpu-blocklist'] });
+const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
+const errors = [];
+page.on('console', (m) => { if (['error', 'warning'].includes(m.type())) errors.push(m.type() + ': ' + m.text()); });
+page.on('pageerror', (e) => errors.push('pageerror: ' + e.message));
+await page.goto('http://127.0.0.1:4173/', { waitUntil: 'load' });
+await page.waitForSelector('#stage canvas', { timeout: 15000 }).catch(() => errors.push('no canvas'));
+await page.waitForTimeout(2500);
+await page.screenshot({ path: 'screenshots/smoke-overview.png' });
+console.log('errors:', errors);
+await browser.close();

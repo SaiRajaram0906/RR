@@ -1,0 +1,119 @@
+{
+  "when": "2026-11-13T11:12:06.983Z",
+  "passed": true,
+  "total": 25,
+  "failures": 0,
+  "results": [
+    {
+      "name": "3D canvas renders on overview and is lazy-loaded (three chunk fetched only for the scene)",
+      "passed": true
+    },
+    {
+      "name": "real pointer click on the WebGL canvas (raycast) opens the evidence panel for a ranked player",
+      "passed": true,
+      "detail": {
+        "clickedPlayer": "Azmatullah Omarzai"
+      }
+    },
+    {
+      "name": "reset camera button and orbit controls respond without errors",
+      "passed": true
+    },
+    {
+      "name": "bat: global top-10 names, order and ratings equal the supplied CSV (UI table)",
+      "passed": true
+    },
+    {
+      "name": "bowl: global top-10 names, order and ratings equal the supplied CSV (UI table)",
+      "passed": true
+    },
+    {
+      "name": "sorting: header toggles aria-sort and changes display order only (ranks stay rating order)",
+      "passed": true
+    },
+    {
+      "name": "filters: IPL + 2026 + Death recompute ranks, keep gates, hide global intervals, show chips",
+      "passed": true,
+      "detail": {
+        "eligibleRowsUnderFilter": 0
+      }
+    },
+    {
+      "name": "uncertainty tab: filtered view shows NO intervals; global view does",
+      "passed": true
+    },
+    {
+      "name": "chip removal and reset restore defaults",
+      "passed": true
+    },
+    {
+      "name": "search: finds a bowler, shows empty state for no match",
+      "passed": true
+    },
+    {
+      "name": "bowler cards show actual vs expected runs & wickets (global) and no economy/strike-rate labels",
+      "passed": true
+    },
+    {
+      "name": "player drawer opens from a card, shows canonical ID, uncertainty, evidence, and closes with Escape (focus restored)",
+      "passed": true
+    },
+    {
+      "name": "drawer under filters hides intervals",
+      "passed": true
+    },
+    {
+      "name": "compare: 3 batters → metric cards, interval plot, season/phase/competition charts; intervals hidden under filters",
+      "passed": true
+    },
+    {
+      "name": "pressure explorer: rules classify sample states exactly; sliders do not change rankings",
+      "passed": true
+    },
+    {
+      "name": "models: global badge, 20 test rows, calibration chart",
+      "passed": true
+    },
+    {
+      "name": "RR fit: four separated groups, availability unverified, filters ignored",
+      "passed": true
+    },
+    {
+      "name": "portraits: nothing guessed — all cards use initials until user confirms; assign+confirm shows the image; duplicates flagged",
+      "passed": true
+    },
+    {
+      "name": "CSV export of the current (filtered) view downloads with header note and correct first rows",
+      "passed": true,
+      "detail": {
+        "exportedFile": "war_room_bat_all_all_all_eligible.csv"
+      }
+    },
+    {
+      "name": "keyboard: skip link, visible focus on controls, drawer traps focus and returns focus",
+      "passed": true
+    },
+    {
+      "name": "WebGL unavailable → fallback message plus accessible card list; no page errors",
+      "passed": true
+    },
+    {
+      "name": "prefers-reduced-motion: scene loads, selecting a card jumps instantly, drawer animation disabled",
+      "passed": true
+    },
+    {
+      "name": "mobile 390px: no horizontal page overflow on any tab",
+      "passed": true
+    },
+    {
+      "name": "no external network requests (everything served locally)",
+      "passed": true
+    },
+    {
+      "name": "no console errors/warnings across all sessions",
+      "passed": true
+    }
+  ],
+  "consoleIssues": [],
+  "externalRequests": []
+}

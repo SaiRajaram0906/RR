@@ -1,0 +1,73 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "bat: global top-10 ids and order match CSV",
+      "passed": true
+    },
+    {
+      "name": "bat: global top-10 names match CSV",
+      "passed": true
+    },
+    {
+      "name": "bat: global top-10 ratings match CSV (1e-6)",
+      "passed": true
+    },
+    {
+      "name": "bat: global CIs and top-10 frequency present",
+      "passed": true
+    },
+    {
+      "name": "bat: eligible count equals CSV (75)",
+      "passed": true
+    },
+    {
+      "name": "bat: filtered view hides global intervals",
+      "passed": true
+    },
+    {
+      "name": "bat: filtered ranks keep fixed gates",
+      "passed": true
+    },
+    {
+      "name": "bat: filtered ranks are 1..n in rating order",
+      "passed": true
+    },
+    {
+      "name": "bowl: global top-10 ids and order match CSV",
+      "passed": true
+    },
+    {
+      "name": "bowl: global top-10 names match CSV",
+      "passed": true
+    },
+    {
+      "name": "bowl: global top-10 ratings match CSV (1e-6)",
+      "passed": true
+    },
+    {
+      "name": "bowl: global CIs and top-10 frequency present",
+      "passed": true
+    },
+    {
+      "name": "bowl: eligible count equals CSV (92)",
+      "passed": true
+    },
+    {
+      "name": "bowl: filtered view hides global intervals",
+      "passed": true
+    },
+    {
+      "name": "bowl: filtered ranks keep fixed gates",
+      "passed": true
+    },
+    {
+      "name": "bowl: filtered ranks are 1..n in rating order",
+      "passed": true
+    },
+    {
+      "name": "uplift = shrunk pressure − shrunk normal for global leader",
+      "passed": true
+    }
+  ]
+}

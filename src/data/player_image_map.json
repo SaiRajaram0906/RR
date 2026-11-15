@@ -1,0 +1,170 @@
+{
+  "_comment": "Player-ID \u2192 portrait mapping. EVERY entry is unconfirmed: the supplied images carry no names or captions, and identities must not be guessed from faces. Set image to a file in public/players/ and status to 'confirmed' after checking each one yourself (or use the in-app 'Portraits' assigner and export).",
+  "schema": {
+    "image": "filename in public/players or null",
+    "status": "unconfirmed|confirmed",
+    "confirmed_by": "free text"
+  },
+  "players": {
+    "2756": {
+      "canonical_name": "Shashank Singh",
+      "role": "bat",
+      "global_rank": 1,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "1699": {
+      "canonical_name": "Suryakumar Yadav",
+      "role": "bat",
+      "global_rank": 2,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "6396": {
+      "canonical_name": "Tim David",
+      "role": "bat",
+      "global_rank": 3,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "37052": {
+      "canonical_name": "Naman Dhir",
+      "role": "bat",
+      "global_rank": 4,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "4260": {
+      "canonical_name": "Heinrich Klaasen",
+      "role": "bat",
+      "global_rank": 5,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "7897": {
+      "canonical_name": "Namboori Tilak Varma",
+      "role": "bat",
+      "global_rank": 6,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "3125": {
+      "canonical_name": "Nicholas Pooran",
+      "role": "bat",
+      "global_rank": 7,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "6676": {
+      "canonical_name": "Azmatullah Omarzai",
+      "role": "bat",
+      "global_rank": 8,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "3647": {
+      "canonical_name": "Shreyas Iyer",
+      "role": "bat",
+      "global_rank": 9,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "4391": {
+      "canonical_name": "Liam Livingstone",
+      "role": "bat",
+      "global_rank": 10,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "781": {
+      "canonical_name": "Sunil Narine",
+      "role": "bowl",
+      "global_rank": 1,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "2933": {
+      "canonical_name": "Jasprit Bumrah",
+      "role": "bowl",
+      "global_rank": 2,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "7364": {
+      "canonical_name": "Haris Rauf",
+      "role": "bowl",
+      "global_rank": 3,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "7699": {
+      "canonical_name": "Abbas Afridi",
+      "role": "bowl",
+      "global_rank": 4,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "8661": {
+      "canonical_name": "Matheesha Pathirana",
+      "role": "bowl",
+      "global_rank": 5,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "2399": {
+      "canonical_name": "Dushmantha Chameera",
+      "role": "bowl",
+      "global_rank": 6,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "4722": {
+      "canonical_name": "Rashid Khan",
+      "role": "bowl",
+      "global_rank": 7,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "360": {
+      "canonical_name": "Bhuvneshwar Kumar",
+      "role": "bowl",
+      "global_rank": 8,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "3298": {
+      "canonical_name": "Jofra Archer",
+      "role": "bowl",
+      "global_rank": 9,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    },
+    "4641": {
+      "canonical_name": "Lungi Ngidi",
+      "role": "bowl",
+      "global_rank": 10,
+      "image": null,
+      "status": "unconfirmed",
+      "confirmed_by": null
+    }
+  }
+}
